@@ -1,7 +1,7 @@
 # Fine-tuning de Transformers para tres tareas de NLP
 
 Práctica 2 del curso Fundamentos de Procesamiento de Lenguaje Natural, Universidad de Antioquia.
-Autor: Brayan Santiago Ramírez Silva.
+Autor: Brayan Santiago Ramírez Silva ([LinkedIn](https://www.linkedin.com/in/brayan-santiago-ramirez-silva-897989323/)).
 
 Se ajustan tres modelos preentrenados de Hugging Face, uno por cada tipo de problema de NLP, siguiendo el mismo flujo: descripción del dataset, análisis exploratorio, búsqueda de hiperparámetros en una muestra, entrenamiento con el dataset completo y evaluación en test.
 
