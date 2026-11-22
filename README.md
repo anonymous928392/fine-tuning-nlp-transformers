@@ -11,6 +11,10 @@ Se ajustan tres modelos preentrenados de Hugging Face, uno por cada tipo de prob
 | Etiquetado de secuencias (NER) | CoNLL-2003 | `bert-base-cased` | F1 por entidad (seqeval) |
 | Secuencia a secuencia (resumen de diálogos) | [knkarthick/dialogsum](https://huggingface.co/datasets/knkarthick/dialogsum) | `facebook/bart-base` | ROUGE-1/2/L |
 
+## Video de sustentación
+
+https://youtu.be/ebOfBsdwwc8
+
 ## Archivos
 
 - `Practica2_FineTuning_NLP.ipynb`: notebook con todo el desarrollo y las salidas.
